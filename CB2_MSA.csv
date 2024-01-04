@@ -1,0 +1,85 @@
+,X,Backed_Microlith,BipolarTech,BladeTech,Borer,Burin,CentripetalTech,CoreTool,Denticulate,LevalloisBladeTech,LevalloisFlakeTech,LevalloisPointTech,Notch,PlatformCore,PointTech,RTBifacial,Scraper,rowSums.cbdatapa2.,AssID,Site...3,Reported.Industry,Industry,SimpleMethod,SimpleType,N,E,MIN_AGE,MID_AGE,MAX_AGE,newMIS,Ref,Basalts,Cherts,CCS,Obsidians,Metamorphics,Quartzs,Other Igneous,Other Sedimentary
+117,Abdur_N_C_S,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,Abdur_N_C_S,Abdur,MSA,MSA,1,0,15.12972222,39.68361111,118,125,132,5,Bruggemann 2004; Walter et al. 2000,1,1,0,1,0,1,1,0
+118,AdumaA1,0,0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,8,AdumaA1,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+119,AdumaA4C,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,5,AdumaA4C,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,0,0,0
+120,AdumaA5Ex,0,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,11,AdumaA5Ex,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+121,AdumaA5ExSurf,0,0,1,1,0,1,1,0,1,1,1,1,1,1,0,1,11,AdumaA5ExSurf,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+122,AdumaA8,0,0,0,1,0,0,0,1,0,1,1,0,1,1,0,1,7,AdumaA8,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+123,AdumaA8AC,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,11,AdumaA8AC,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+124,AdumaA8AG,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,11,AdumaA8AG,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+125,AdumaA8ASurf,0,0,1,1,0,1,1,1,0,0,0,1,1,1,0,1,9,AdumaA8ASurf,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+126,AdumaA8B,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,4,AdumaA8B,Aduma,MSA,MSA,1,0,10.393,40.537,80,90,100,5,Yellen 2005,1,0,0,0,0,0,0,0
+211,AdumaVP1/1,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,1,10,AdumaVP1/1,Aduma,MSA,MSA,0,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+212,AdumaVP1/3,0,0,1,0,0,1,1,0,0,1,1,1,1,1,0,1,9,AdumaVP1/3,Aduma,MSA,MSA,0,0,10.393,40.537,80,90,100,5,Yellen 2005,1,1,0,1,0,1,0,0
+41,Enkapune_ya_Muto_RBL4,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,4,Enkapune_ya_Muto_RBL4,Enkapune_ya_Muto,MSA (Endingi),MSA,1,1,0.001388889,36.15,43,45,45,3,Basell 2008,0,0,0,1,0,0,0,0
+130,EyasiShore_77_81,0,0,0,1,0,1,1,0,0,1,0,1,0,0,1,1,8,EyasiShore_77_81,Eyasi Shore,MSA (Njarasa/Sangoan),MSA,1,0,-3.540555556,35.28,91,112,132,5,Mehlman 1989,0,1,0,0,1,1,0,0
+222,EyasiShore_N_surface,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,5,EyasiShore_N_surface,Eyasi Shore,MSA (Njarasa/Sangoan),MSA,0,0,-3.540555556,35.28,91,112,132,5,Mehlman 1989,1,0,0,0,1,1,0,0
+131,EyasiShore_W_insitu,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,EyasiShore_W_insitu,Eyasi Shore,MSA (Njarasa/Sangoan),MSA,1,0,-3.540555556,35.28,91,112,132,5,Mehlman 1989,1,0,0,0,1,1,0,0
+223,EyasiShore_W_surf,1,1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,8,EyasiShore_W_surf,Eyasi Shore,MSA (Njarasa/Sangoan),MSA,0,0,-3.540555556,35.28,91,112,132,5,Mehlman 1989,1,0,0,0,1,1,0,0
+44,Fincha Habera 8_10,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6,Fincha Habera 8_10,Fincha Habera,MSA,MSA,1,1,7.014577,39.720068,27,31,34,3,Ossendorf et al. 2019,1,1,0,1,0,0,0,0
+45,Fincha Habera 8_11,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,4,Fincha Habera 8_11,Fincha Habera,MSA,MSA,1,1,7.014577,39.720068,27,31,34,3,Ossendorf et al. 2019,1,1,0,1,0,0,0,0
+46,Fincha Habera 8_8,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,4,Fincha Habera 8_8,Fincha Habera,MSA,MSA,1,1,7.014577,39.720068,27,31,34,3,Ossendorf et al. 2019,1,1,0,1,0,0,0,0
+47,Fincha Habera 8_9,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,4,Fincha Habera 8_9,Fincha Habera,MSA,MSA,1,1,7.014577,39.720068,27,31,34,3,Ossendorf et al. 2019,1,1,0,1,0,0,0,0
+48,Fincha Habera 9,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,4,Fincha Habera 9,Fincha Habera,MSA,MSA,1,1,7.014577,39.720068,33,38,42,3,Ossendorf et al. 2019,1,1,0,1,0,0,0,0
+132,Gademotta_ETH72_1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,1,10,Gademotta_ETH72_1,Gademotta,MSA,MSA,1,0,7.548216124,38.57459634,172,223,274,7,Douze 2012,0,0,0,1,0,0,0,0
+133,Gademotta_ETH72_6,0,0,1,0,1,1,1,0,1,1,1,1,0,0,1,1,11,Gademotta_ETH72_6,Gademotta,MSA,MSA,1,0,7.548216124,38.57459634,172,223,274,7,Douze 2012,0,0,0,1,0,0,0,0
+6,Goda Butchia_Complex2_DEF,1,0,1,0,1,0,0,0,1,1,1,0,0,1,0,1,8,Goda Butchia_Complex2_DEF,Goda Butchia,WontSpecify,MSA,1,1,9.541704,41.629434,22,46,70,3,Leplongeon et al. 2017,1,1,0,1,1,0,0,0
+226,KapedoTuffs,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,5,KapedoTuffs,KapedoTuffs,MSA,MSA,0,0,1.07,36.08,120,128,135,5,Tryon et al. 2008,0,0,0,0,0,0,1,0
+143,KapForm_KoimilotGnJh74_1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,5,KapForm_KoimilotGnJh74_1,Kapthurin Formation,MSA (Early),MSA,1,0,0.517,35.975,198,218,237,7,Tryon 2003,0,0,0,0,0,0,1,0
+144,KapForm_KoimilotGnJh74_2,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,5,KapForm_KoimilotGnJh74_2,Kapthurin Formation,MSA (Early),MSA,1,0,0.517,35.975,198,218,237,7,Tryon 2003,0,0,0,0,0,0,1,0
+145,KapForm_SSRS,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,1,7,KapForm_SSRS,Kapthurin Formation,MSA,MSA,1,0,0.657,35.99,198,218,237,7,Blegen 2017,0,0,0,1,0,0,1,0
+146,Karungu_A3Ex,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,3,Karungu_A3Ex,Karungu,MSA,MSA,1,0,-0.836659,34.180453,42,79,115,5,Faith et al 2015,0,1,0,0,1,1,0,0
+237,Karungu_Kisaaka_Main,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Karungu_Kisaaka_Main,Karungu,MSA,MSA,0,0,-0.806661,34.134566,42,49,56,3,Faith et al 2015,0,1,0,0,1,1,0,0
+238,Karungu_Kisaaka_ZTG,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Karungu_Kisaaka_ZTG,Karungu,MSA,MSA,0,0,-0.806678,34.133984,42,79,115,5,Faith et al 2015,0,1,0,0,1,1,0,0
+59,Kiese II_18,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,Kiese II_18,Kiese II,MSA,MSA,1,1,-4.491797222,35.81203056,38,39,39,3,Tryon et al. 2018,0,1,0,0,0,1,0,0
+60,Kiese II_19,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,6,Kiese II_19,Kiese II,MSA,MSA,1,1,-4.491797222,35.81203056,31,39,46,3,Tryon et al. 2018,0,1,0,0,0,1,0,0
+62,Kiese II_20,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,6,Kiese II_20,Kiese II,MSA,MSA,1,1,-4.491797222,35.81203056,42,44,45,3,Tryon et al. 2018,0,1,0,0,0,1,0,0
+63,Kiese II_21,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,5,Kiese II_21,Kiese II,MSA,MSA,1,1,-4.491797222,35.81203056,43,45,46,3,Tryon et al. 2018,0,1,0,0,0,1,0,0
+87,LaasGeel_SU_711,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,9,LaasGeel_SU_711,Laas Geel,MSA,MSA,1,1,9.685,44.27,40,42,42,3,Gutherez et al. 2014,0,1,0,1,0,1,0,0
+161,LukenyaHill_GvJm46,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,7,LukenyaHill_GvJm46,LukenyaHill_GvJm46,MSA,MSA,1,0,-1.656492006,37.14455364,21,24,27,2,Kelly 1996; Basell 2008,1,0,1,1,0,1,0,0
+92,LukenyaHillGvJm22_F170_205,1,1,1,0,1,1,0,0,0,1,0,0,1,1,0,1,9,LukenyaHillGvJm22_F170_205,Lukenya Hill GvJm22,MSA,MSA,1,1,-1.656492006,37.14455364,25,29,32,3,Tryon et al. 2015,0,1,0,1,0,1,0,0
+97,Magubike_MSA,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,13,Magubike_MSA,Magubike,MSA,MSA,1,1,-7.763166667,35.47331667,35,42,48,3,Bushozi 2011,0,1,0,0,1,1,0,0
+243,MalewaGorge,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,4,MalewaGorge,Malewa Gorge,MSA (Kenya_Still_Bay),MSA,0,0,-0.773,36.393,240,240,240,7,Basell 2008,0,0,0,1,0,0,0,0
+162,Marmonet Drift_H2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,3,Marmonet Drift_H2,Marmonet Drift,MSA,MSA,1,0,-0.755136111,36.17548333,89,147,205,6,Slater 2016,0,0,0,1,0,0,0,0
+163,Marmonet Drift_H4,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,10,Marmonet Drift_H4,Marmonet Drift,MSA,MSA,1,0,-0.755136111,36.17548333,90,110,130,5,Slater 2016,0,0,0,1,0,0,0,0
+164,Marmonet Drift_H5,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,10,Marmonet Drift_H5,Marmonet Drift,MSA,MSA,1,0,-0.755136111,36.17548333,90,94,98,5,Slater 2016,0,0,0,1,0,1,0,0
+165,Marmonet Drift_I_bottom,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,1,5,Marmonet Drift_I_bottom,Marmonet Drift,MSA,MSA,1,0,-0.755136111,36.17548333,205,231,257,7,Ambrose & Deino 2010,0,0,0,1,0,0,0,0
+99,MochenaBorago_LowerT,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,6,MochenaBorago_LowerT,Mochena Borago,MSA (they argue its hard to place but is not distinctly 'transitional'),MSA,1,1,6.903,37.748,49,50,50,3,Brandt et al. 2017,0,0,1,1,0,0,1,0
+100,MochenaBorago_RGroup,1,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,11,MochenaBorago_RGroup,Mochena Borago,MSA (they argue its hard to place but is not distinctly 'transitional'),MSA,1,1,6.903,37.748,36,40,43,3,Brandt et al. 2017,0,0,1,1,1,0,1,0
+101,MochenaBorago_SGroup,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,1,10,MochenaBorago_SGroup,Mochena Borago,MSA (they argue its hard to place but is not distinctly 'transitional'),MSA,1,1,6.903,37.748,43,45,46,3,Brandt et al. 2017,0,0,1,1,1,0,1,0
+102,MochenaBorago_UpperT,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,1,9,MochenaBorago_UpperT,Mochena Borago,MSA (they argue its hard to place but is not distinctly 'transitional'),MSA,1,1,6.903,37.748,45,48,49,3,Brandt et al. 2017,0,0,1,1,0,0,1,0
+8,Mumba_L_III_38,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,13,Mumba_L_III_38,Mumba,MSA (Nasera; transitional),MSA,1,1,-3.540555556,35.29638889,33,37,40,3,Mehlman 1989,0,1,0,0,1,1,0,0
+9,Mumba_L_V_81,1,1,1,0,0,1,0,0,0,0,0,1,1,1,0,1,9,Mumba_L_V_81,Mumba,MSA (Mumba; transitional),MSA,1,1,-3.540555556,35.29638889,52,57,61,3,Mehlman 1989,0,1,0,0,1,1,0,0
+10,Mumba_L_VI_38,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,14,Mumba_L_VI_38,Mumba,MSA (Mumba; transitional),MSA,1,1,-3.540555556,35.29638889,52,57,61,3,Mehlman 1989,0,1,0,0,1,1,0,0
+11,Mumba_L_VI_A,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,13,Mumba_L_VI_A,Mumba,MSA (Kisele),MSA,1,1,-3.540555556,35.29638889,86,101,115,5,Mehlman 1989,0,1,0,0,1,1,0,0
+13,Mumba_MU_V_81,1,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,12,Mumba_MU_V_81,Mumba,MSA (Mumba; transitional),MSA,1,1,-3.540555556,35.29638889,47,51,55,3,Mehlman 1989,0,1,0,0,1,1,0,0
+14,Mumba_U_V_38,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,13,Mumba_U_V_38,Mumba,MSA (Mumba; transitional),MSA,1,1,-3.540555556,35.29638889,44,49,53,3,Mehlman 1989,0,1,0,0,1,1,0,0
+15,Mumba_U_VI_A,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,13,Mumba_U_VI_A,Mumba,MSA (Kisele),MSA,1,1,-3.540555556,35.29638889,57,63,69,4,Mehlman 1989,0,1,0,0,1,1,0,0
+16,Mumba_VI_B,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,13,Mumba_VI_B,Mumba,MSA (Sanzako),MSA,1,1,-3.540555556,35.29638889,86,120,153,5,Mehlman 1989,0,1,0,0,1,1,0,0
+104,Nasera_12_17,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,1,13,Nasera_12_17,Nasera,MSA (Kisele),MSA,1,1,-2.736944444,35.35805556,53,56,58,3,Mehlman 1989,0,1,0,0,1,1,0,0
+108,Nasera_6_7,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,14,Nasera_6_7,Nasera,MSA (Nasera; transitional),MSA,1,1,-2.736944444,35.35805556,50,54,58,3,Mehlman 1989,0,1,0,0,1,1,0,0
+109,Nasera_8/9_11,1,1,1,1,0,1,0,0,0,1,0,1,1,1,1,1,12,Nasera_8/9_11,Nasera,MSA (Mumba; transitional),MSA,1,1,-2.736944444,35.35805556,50,54,58,3,Mehlman 1989,0,1,0,0,1,1,0,0
+246,Ndutu_14,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,5,Ndutu_14,Ndutu,MSA,MSA,0,0,-3.251539624,34.86748566,220,230,240,7,Eren et al 2014,1,0,0,0,0,1,1,0
+247,Ndutu_72,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,4,Ndutu_72,Ndutu,MSA,MSA,0,0,-3.251539624,34.86748566,220,230,240,7,Leakey et al. 1972,1,0,0,0,0,1,1,0
+181,Olorgesailie_BOK1E,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,1,6,Olorgesailie_BOK1E,Olorgesailie,MSA,MSA,1,0,-1.5653264,36.432652,295,308,320,9,Brooks et al. 2018,1,1,0,1,0,1,0,0
+182,Olorgesailie_BOK2,0,1,1,0,0,1,1,0,0,1,0,0,1,1,0,1,8,Olorgesailie_BOK2,Olorgesailie,MSA,MSA,1,0,-1.5653264,36.432652,295,308,320,9,Brooks et al. 2018,1,1,0,1,0,1,0,0
+183,Olorgesailie_BOK3,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,5,Olorgesailie_BOK3,Olorgesailie,MSA,MSA,1,0,-1.5653264,36.432652,295,308,320,9,Brooks et al. 2018,1,1,0,1,0,0,0,0
+184,Olorgesailie_BOK4,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,1,7,Olorgesailie_BOK4,Olorgesailie,MSA,MSA,1,0,-1.5653264,36.432652,288,295,301,8,Brooks et al. 2018,1,1,0,1,0,1,0,0
+186,Omo_AHS1-5,0,0,0,1,0,1,0,1,0,1,1,0,0,1,0,1,8,Omo_AHS1-5,Omo,MSA,MSA,1,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,1,1,1,0,1,0,1,1
+187,Omo_AHS6_8,0,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,12,Omo_AHS6_8,Omo,MSA,MSA,1,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,1,1,1,0,1,0,1,1
+250,Omo_AHSsurface,1,1,1,1,0,1,1,1,0,1,1,0,0,1,0,1,12,Omo_AHSsurface,Omo,MSA,MSA,0,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,1,1,1,0,1,0,1,1
+188,Omo_BNS_L3,1,1,1,0,0,1,1,0,1,1,1,0,0,1,0,1,11,Omo_BNS_L3,Omo,MSA,MSA,1,0,4.468124171,35.97851883,96,104,111,5,Shea et al. 2008,0,1,1,0,0,0,1,0
+251,Omo_BNS<50m,1,1,1,0,0,1,1,0,0,1,1,0,1,1,0,1,11,Omo_BNS<50m,Omo,MSA,MSA,0,0,4.468124171,35.97851883,96,104,111,5,Shea et al. 2008,0,1,1,0,0,0,1,0
+189,Omo_KHS2/3,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,5,Omo_KHS2/3,Omo,MSA,MSA,1,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,0,1,1,0,0,0,0,0
+252,Omo_KHSNgully,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,3,Omo_KHSNgully,Omo,MSA,MSA,0,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,0,1,1,0,0,0,0,0
+253,Omo_KHSNMKenya,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,1,8,Omo_KHSNMKenya,Omo,MSA,MSA,0,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,0,1,1,0,0,0,0,0
+254,Omo_KHSSgully,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,8,Omo_KHSSgully,Omo,MSA,MSA,0,0,4.468124171,35.97851883,193,197,201,7,Shea et al. 2008,0,1,1,0,0,0,0,0
+25,Pange_ya_Saidi_17,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,Pange_ya_Saidi_17,Pange_ya_Saidi,MSA,MSA,1,1,-3.72,39.719,65,73,80,5,Shipton et al. 2018,0,1,0,0,1,1,0,1
+26,Pange_ya_Saidi_18,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,5,Pange_ya_Saidi_18,Pange_ya_Saidi,MSA,MSA,1,1,-3.72,39.719,67,77,86,5,Shipton et al. 2018,0,1,0,0,0,1,0,1
+27,Pange_ya_Saidi_19,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,7,Pange_ya_Saidi_19,Pange_ya_Saidi,MSA,MSA,1,1,-3.72,39.719,67,77,86,5,Shipton et al. 2018,0,1,0,0,0,1,0,1
+256,Rusinga_Nyamita,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,6,Rusinga_Nyamita,Rusinga,MSA,MSA,0,0,-0.425508,34.159631,42,49,56,3,Tryon et al. 2012,0,1,0,0,0,1,1,0
+112,Shurmai_MSA,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,5,Shurmai_MSA,Shurmai,MSA,MSA,1,1,0.508333333,37.21518333,39,45,50,3,Dickson & Gang 2002,1,1,0,1,0,1,1,1
+197,VictoriaCabera_2,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,6,VictoriaCabera_2,VictoriaCabera,MSA,MSA,1,0,-2.9928451,35.3522518,70,81,91,5,Maíllo-Fernández et al. 2019a,1,0,0,0,1,0,1,0
+198,VictoriaCabera_2a,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,4,VictoriaCabera_2a,VictoriaCabera,MSA,MSA,1,0,-2.9928451,35.3522518,70,81,91,5,Maíllo-Fernández et al. 2019a,1,0,0,0,1,0,0,0
+199,VictoriaCabera_3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,VictoriaCabera_3,VictoriaCabera,MSA,MSA,1,0,-2.9928451,35.3522518,70,81,91,5,Maíllo-Fernández et al. 2019a,1,0,0,0,1,0,0,0
+200,VictoriaCabera_4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,VictoriaCabera_4,VictoriaCabera,MSA,MSA,1,0,-2.9928451,35.3522518,79,86,91,5,Maíllo-Fernández et al. 2019a,1,1,0,0,1,1,1,0
