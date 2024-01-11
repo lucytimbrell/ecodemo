@@ -3,15 +3,16 @@ library(raster)
 library(dplyr)
 library(pastclim)
 library(rnaturalearth)
-
+library(rgdal)
+library(rgeos)
+library(terra)
 
 #### FIGURE 3 - CLIMATE OF EA MSA ####
 
-setwd("/Volumes/Lucy/Habitability_modelling")
+setwd(YOUR WORKING DIRECTORY HERE)
 
 points <- c(30,55,-9,20) # eastern Africa
 
-setwd("/Volumes/Lucy/climate_data/final_msa_files")
 sites <- read.csv("CB2_MSA.csv")
 sites <- sites %>% distinct(MIN_AGE, MAX_AGE, .keep_all=TRUE)
 mid_ages <- sites$MID_AGE #extract mid ages of sites
@@ -75,9 +76,6 @@ crs(relief_rast) <-  "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
 
 
 # Water
-setwd("/Volumes/Lucy/climate_data/gis_data/final_PhD_GIS_files")
-library(rgdal)
-library(rgeos)
 af_lakes <- readOGR(dsn = "lakes", layer = "lakes")
 af_lakes <-spTransform(af_lakes, CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
 af_lakes2 <- as(af_lakes, "SpatialLines") 
@@ -94,16 +92,17 @@ mean_bio12 <- calc(raster_list[['bio12']], fun=mean) #mean precipitation
 mean_bio01 <- calc(raster_list[['bio01']], fun=mean) #mean temperature
 mean_npp <- calc(npp_stack, fun=mean) #mean NPP
 
+
+sites_sp <- SpatialPointsDataFrame(sites[,c("E", "N")], sites, proj4string = CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
+#sites_sp<- spTransform(sites_sp, CRSobj = "+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs")
+sites$ID <- seq(1, nrow(sites))
+
 require("RColorBrewer")
 require("rasterVis")
 require("gridExtra")
 require("scales")
 require("latticeExtra")
-
-sites_sp <- SpatialPointsDataFrame(sites[,c("E", "N")], sites, proj4string = CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"))
-#sites_sp<- spTransform(sites_sp, CRSobj = "+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs")
-sites$ID <- seq(1, nrow(sites))
-  
+                 
 colr <- colorRampPalette(brewer.pal(7, 'RdYlGn'))
 colr2 <- colorRampPalette(rev(c(heat.colors(20))))
 colr3 <- colorRampPalette(brewer.pal(7, 'RdBu'))
@@ -182,8 +181,7 @@ gridExtra:: grid.arrange(p1, p2, p3, p4, nrow = 1)
 
 
 #### FIGURE 1 - MAP OF SPECIFIC VS GENERIC MSA ####
-setwd("/Users/lucytimbrell/Documents/LT_documents/publications/BIEA_paper")
-africa <- rnaturalearth::ne_countries(continent = 'africa') #africa shape
+africa <- ne_countries(continent = 'africa') #africa shape
 africa <- africa[-38,] #removes madagascar
 africa <- terra::vect(africa) #to spatvector
 africa <- terra::aggregate(africa, dissolve=T) #disolved internal divisions
